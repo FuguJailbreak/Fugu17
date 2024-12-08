@@ -4,7 +4,7 @@ It contains a code-signing bypass, kernel exploit, kernel PAC bypass and PPL byp
 Additionally, it can be installed via Safari, i.e. a computer is not required, except for a Web Server that hosts Fugu17.  
 Fugu17 supports tweaks using ElleKit and Sileo.
 <h3>
-<a href="https://cowabunga-lite.com/download-ios-17-jailbreak-jailbreak-ios-17-online-no-pc-with-sileo/">DOWNLOAD FUGU17 JAILBREAK IPA</a>
+<a href="[https://cowabunga-lite.com/download-ios-17-jailbreak-jailbreak-ios-17-online-no-pc-with-sileo/](https://fugu-jailbreak.com/jailbreak/how-to-jailbreak-iphone-16-palera1n-dopamine-and-xilojb-guide-with-sileo-and-tweaks/)">DOWNLOAD FUGU17 JAILBREAK IPA</a>
 </h3>
 
 # Tested Devices and iOS Versions
