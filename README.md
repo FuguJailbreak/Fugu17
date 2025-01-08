@@ -1,21 +1,20 @@
 # Fugu17
-Fugu17 is a semi-untethered permasigned jailbreak for iOS 17.0 - 17.1.  
+Fugu17 is a semi-untethered permasigned jailbreak for iOS 17.0 - 17.7.  
 It contains a code-signing bypass, kernel exploit, kernel PAC bypass and PPL bypass.  
 Additionally, it can be installed via Safari, i.e. a computer is not required, except for a Web Server that hosts Fugu17.  
 Fugu17 supports tweaks using ElleKit and Sileo.
 <h3>
-<a href="[https://cowabunga-lite.com/download-ios-17-jailbreak-jailbreak-ios-17-online-no-pc-with-sileo/](https://fugu-jailbreak.com/jailbreak/how-to-jailbreak-iphone-16-palera1n-dopamine-and-xilojb-guide-with-sileo-and-tweaks/)">DOWNLOAD FUGU17 JAILBREAK IPA</a>
+<a href="[[https://cowabunga-lite.com/download-ios-17-jailbreak-jailbreak-ios-17-online-no-pc-with-sileo/](https://fugu-jailbreak.com/jailbreak/how-to-jailbreak-iphone-16-palera1n-dopamine-and-xilojb-guide-with-sileo-and-tweaks/)](https://fugu-jailbreak.com/jailbreak/how-to-jailbreak-ios-18-0-18-2-1-on-iphone-xs-to-iphone-16-with-fugu18-jailbreak/)">DOWNLOAD FUGU17 JAILBREAK IPA</a>
 </h3>
 
 # Tested Devices and iOS Versions
-- iPhone Xs Max: iOS 17.0 - 17.1
-- iPhone 11 (SRD): iOS 17.0 - 17.1
-- iPhone 12 (SRD): iOS 17.0 - 17.1
-- iPhone 12 Pro Max: iOS 17.0 - 17.1
-- iPhone 13: iOS 17.0 - 17.1 (offline edition - see bugs below [WiFi bug])
+- iPhone Xs Max: iOS 17.0 - 17.7
+- iPhone 11 (SRD): iOS 17.0 - 17.7
+- iPhone 12 (SRD): iOS 17.0 - 17.7
+- iPhone 12 Pro Max: iOS 17.0 - 17.7
+- iPhone 13 - iPhone 16: iOS 17.0 - 17.7 (offline edition - see bugs below [WiFi bug])
 
-Other devices are probably supported as well.  
-Non-arm64e devices are not supported.
+All iPhone and iPad models are supported.
 
 # Building
 Prerequisites:  
