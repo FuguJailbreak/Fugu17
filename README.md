@@ -1,4 +1,5 @@
-# Fugu17
+# Fugu17 Jailbreak for iOS 17.0 - 17.7
+
 Fugu17 is a semi-untethered permasigned jailbreak for iOS 17.0 - 17.7.  
 It contains a code-signing bypass, kernel exploit, kernel PAC bypass and PPL bypass.  
 Additionally, it can be installed via Safari, i.e. a computer is not required, except for a Web Server that hosts Fugu17.  
